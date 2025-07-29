@@ -6,7 +6,7 @@
     "price": 799.99,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/001.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/001.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/001.webp"
     ],
     "stock": 150,
@@ -20,7 +20,7 @@
     "price": 1200.5,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/002.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/002.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/002.webp"
     ],
     "stock": 80,
@@ -34,7 +34,7 @@
     "price": 199.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/003.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/003.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/003.webp"
     ],
     "stock": 250,
@@ -48,7 +48,7 @@
     "price": 129.99,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/004.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/004.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/004.webp"
     ],
     "stock": 300,
@@ -62,7 +62,7 @@
     "price": 899.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/005.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/005.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/005.webp"
     ],
     "stock": 60,
@@ -76,7 +76,7 @@
     "price": 1500.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/006.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/006.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/006.webp"
     ],
     "stock": 40,
@@ -90,7 +90,7 @@
     "price": 25.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/007.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/007.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/007.webp"
     ],
     "stock": 500,
@@ -104,7 +104,7 @@
     "price": 55.99,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/008.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/008.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/008.webp"
     ],
     "stock": 350,
@@ -118,7 +118,7 @@
     "price": 120.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/009.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/009.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/009.webp"
     ],
     "stock": 100,
@@ -132,7 +132,7 @@
     "price": 75.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/010.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/010.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/010.webp"
     ],
     "stock": 200,
@@ -146,7 +146,7 @@
     "price": 85.5,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/011.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/011.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/011.webp"
     ],
     "stock": 400,
@@ -160,7 +160,7 @@
     "price": 150.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/012.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/012.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/012.webp"
     ],
     "stock": 120,
@@ -174,7 +174,7 @@
     "price": 250.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/013.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/013.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/013.webp"
     ],
     "stock": 90,
@@ -188,7 +188,7 @@
     "price": 70.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/014.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/014.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/014.webp"
     ],
     "stock": 180,
@@ -202,7 +202,7 @@
     "price": 45.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/015.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/015.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/015.webp"
     ],
     "stock": 220,
@@ -216,7 +216,7 @@
     "price": 180.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/016.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/016.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/016.webp"
     ],
     "stock": 70,
@@ -230,7 +230,7 @@
     "price": 350.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/017.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/017.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/017.webp"
     ],
     "stock": 50,
@@ -244,7 +244,7 @@
     "price": 90.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/018.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/018.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/018.webp"
     ],
     "stock": 150,
@@ -258,7 +258,7 @@
     "price": 18.5,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/019.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/019.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/019.webp"
     ],
     "stock": 300,
@@ -272,7 +272,7 @@
     "price": 22.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/020.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/020.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/020.webp"
     ],
     "stock": 250,
@@ -286,7 +286,7 @@
     "price": 15.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/021.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/021.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/021.webp"
     ],
     "stock": 400,
@@ -300,7 +300,7 @@
     "price": 30.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/022.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/022.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/022.webp"
     ],
     "stock": 280,
@@ -314,7 +314,7 @@
     "price": 120.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/023.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/023.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/023.webp"
     ],
     "stock": 100,
@@ -328,7 +328,7 @@
     "price": 95.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/024.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/024.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/024.webp"
     ],
     "stock": 75,
@@ -342,7 +342,7 @@
     "price": 110.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/025.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/025.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/025.webp"
     ],
     "stock": 90,
@@ -356,7 +356,7 @@
     "price": 600.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/026.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/026.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/026.webp"
     ],
     "stock": 30,
@@ -370,7 +370,7 @@
     "price": 85.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/027.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/027.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/027.webp"
     ],
     "stock": 150,
@@ -384,7 +384,7 @@
     "price": 65.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/028.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/028.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/028.webp"
     ],
     "stock": 200,
@@ -398,7 +398,7 @@
     "price": 50.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/029.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/029.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/029.webp"
     ],
     "stock": 180,
@@ -412,7 +412,7 @@
     "price": 40.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/030.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/030.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/030.webp"
     ],
     "stock": 250,
@@ -426,7 +426,7 @@
     "price": 35.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/031.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/031.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/031.webp"
     ],
     "stock": 150,
@@ -440,7 +440,7 @@
     "price": 20.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/032.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/032.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/032.webp"
     ],
     "stock": 300,
@@ -454,7 +454,7 @@
     "price": 15.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/033.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/033.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/033.webp"
     ],
     "stock": 200,
@@ -468,7 +468,7 @@
     "price": 55.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/034.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/034.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/034.webp"
     ],
     "stock": 120,
@@ -482,7 +482,7 @@
     "price": 75.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/035.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/035.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/035.webp"
     ],
     "stock": 100,
@@ -496,7 +496,7 @@
     "price": 120.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/036.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/036.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/036.webp"
     ],
     "stock": 80,
@@ -510,7 +510,7 @@
     "price": 45.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/037.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/037.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/037.webp"
     ],
     "stock": 150,
@@ -524,7 +524,7 @@
     "price": 60.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/038.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/038.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/038.webp"
     ],
     "stock": 200,
@@ -538,7 +538,7 @@
     "price": 12.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/039.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/039.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/039.webp"
     ],
     "stock": 300,
@@ -552,7 +552,7 @@
     "price": 80.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/040.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/040.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/040.webp"
     ],
     "stock": 100,
@@ -566,7 +566,7 @@
     "price": 450.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/041.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/041.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/041.webp"
     ],
     "stock": 50,
@@ -580,7 +580,7 @@
     "price": 1500.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/042.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/042.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/042.webp"
     ],
     "stock": 20,
@@ -594,7 +594,7 @@
     "price": 90.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/043.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/043.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/043.webp"
     ],
     "stock": 80,
@@ -608,7 +608,7 @@
     "price": 70.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/044.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/044.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/044.webp"
     ],
     "stock": 100,
@@ -622,7 +622,7 @@
     "price": 45.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/045.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/045.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/045.webp"
     ],
     "stock": 200,
@@ -636,7 +636,7 @@
     "price": 38.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/046.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/046.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/046.webp"
     ],
     "stock": 180,
@@ -650,7 +650,7 @@
     "price": 60.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/047.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/047.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/047.webp"
     ],
     "stock": 150,
@@ -664,7 +664,7 @@
     "price": 15.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/048.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/048.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/048.webp"
     ],
     "stock": 300,
@@ -678,7 +678,7 @@
     "price": 40.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/049.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/049.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/049.webp"
     ],
     "stock": 250,
@@ -692,7 +692,7 @@
     "price": 50.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/050.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/050.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/050.webp"
     ],
     "stock": 180,
@@ -706,7 +706,7 @@
     "price": 70.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/051.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/051.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/051.webp"
     ],
     "stock": 160,
@@ -720,7 +720,7 @@
     "price": 25.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/052.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/052.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/052.webp"
     ],
     "stock": 220,
@@ -734,7 +734,7 @@
     "price": 20.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/053.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/053.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/053.webp"
     ],
     "stock": 100,
@@ -748,7 +748,7 @@
     "price": 80.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/054.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/054.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/054.webp"
     ],
     "stock": 200,
@@ -762,7 +762,7 @@
     "price": 45.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/055.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/055.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/055.webp"
     ],
     "stock": 350,
@@ -776,7 +776,7 @@
     "price": 35.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/056.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/056.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/056.webp"
     ],
     "stock": 280,
@@ -790,7 +790,7 @@
     "price": 90.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/057.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/057.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/057.webp"
     ],
     "stock": 120,
@@ -804,7 +804,7 @@
     "price": 400.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/058.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/058.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/058.webp"
     ],
     "stock": 60,
@@ -818,7 +818,7 @@
     "price": 150.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/059.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/059.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/059.webp"
     ],
     "stock": 100,
@@ -832,7 +832,7 @@
     "price": 130.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/060.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/060.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/060.webp"
     ],
     "stock": 90,
@@ -846,7 +846,7 @@
     "price": 30.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/061.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/061.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/061.webp"
     ],
     "stock": 250,
@@ -860,7 +860,7 @@
     "price": 48.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/062.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/062.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/062.webp"
     ],
     "stock": 200,
@@ -874,7 +874,7 @@
     "price": 35.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/063.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/063.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/063.webp"
     ],
     "stock": 180,
@@ -888,7 +888,7 @@
     "price": 40.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/064.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/064.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/064.webp"
     ],
     "stock": 160,
@@ -902,7 +902,7 @@
     "price": 30.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/065.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/065.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/065.webp"
     ],
     "stock": 250,
@@ -916,7 +916,7 @@
     "price": 15.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/066.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/066.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/066.webp"
     ],
     "stock": 400,
@@ -930,7 +930,7 @@
     "price": 250.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/067.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/067.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/067.webp"
     ],
     "stock": 70,
@@ -944,7 +944,7 @@
     "price": 120.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/068.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/068.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/068.webp"
     ],
     "stock": 90,
@@ -958,7 +958,7 @@
     "price": 30.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/069.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/069.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/069.webp"
     ],
     "stock": 200,
@@ -972,7 +972,7 @@
     "price": 55.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/070.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/070.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/070.webp"
     ],
     "stock": 150,
@@ -986,7 +986,7 @@
     "price": 40.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/071.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/071.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/071.webp"
     ],
     "stock": 250,
@@ -1000,7 +1000,7 @@
     "price": 35.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/072.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/072.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/072.webp"
     ],
     "stock": 180,
@@ -1014,7 +1014,7 @@
     "price": 25.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/073.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/073.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/073.webp"
     ],
     "stock": 200,
@@ -1028,7 +1028,7 @@
     "price": 12.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/074.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/074.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/074.webp"
     ],
     "stock": 350,
@@ -1042,7 +1042,7 @@
     "price": 28.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/075.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/075.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/075.webp"
     ],
     "stock": 150,
@@ -1056,7 +1056,7 @@
     "price": 50.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/076.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/076.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/076.webp"
     ],
     "stock": 120,
@@ -1070,7 +1070,7 @@
     "price": 30.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/077.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/077.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/077.webp"
     ],
     "stock": 200,
@@ -1084,7 +1084,7 @@
     "price": 85.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/078.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/078.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/078.webp"
     ],
     "stock": 90,
@@ -1098,7 +1098,7 @@
     "price": 28.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/079.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/079.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/079.webp"
     ],
     "stock": 180,
@@ -1112,7 +1112,7 @@
     "price": 45.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/080.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/080.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/080.webp"
     ],
     "stock": 150,
@@ -1126,7 +1126,7 @@
     "price": 20.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/081.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/081.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/081.webp"
     ],
     "stock": 300,
@@ -1140,7 +1140,7 @@
     "price": 35.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/082.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/082.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/082.webp"
     ],
     "stock": 250,
@@ -1154,7 +1154,7 @@
     "price": 18.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/083.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/083.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/083.webp"
     ],
     "stock": 280,
@@ -1168,7 +1168,7 @@
     "price": 18.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/084.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/084.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/084.webp"
     ],
     "stock": 280,
@@ -1182,7 +1182,7 @@
     "price": 25.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/085.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/085.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/085.webp"
     ],
     "stock": 200,
@@ -1196,7 +1196,7 @@
     "price": 30.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/086.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/086.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/086.webp"
     ],
     "stock": 180,
@@ -1210,7 +1210,7 @@
     "price": 40.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/087.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/087.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/087.webp"
     ],
     "stock": 150,
@@ -1224,7 +1224,7 @@
     "price": 90.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/088.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/088.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/088.webp"
     ],
     "stock": 80,
@@ -1238,7 +1238,7 @@
     "price": 15.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/089.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/089.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/089.webp"
     ],
     "stock": 300,
@@ -1252,7 +1252,7 @@
     "price": 8.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/090.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/090.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/090.webp"
     ],
     "stock": 500,
@@ -1266,7 +1266,7 @@
     "price": 60.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/091.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/091.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/091.webp"
     ],
     "stock": 120,
@@ -1280,7 +1280,7 @@
     "price": 35.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/092.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/092.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/092.webp"
     ],
     "stock": 250,
@@ -1294,7 +1294,7 @@
     "price": 25.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/093.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/093.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/093.webp"
     ],
     "stock": 180,
@@ -1308,7 +1308,7 @@
     "price": 10.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/094.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/094.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/094.webp"
     ],
     "stock": 300,
@@ -1322,7 +1322,7 @@
     "price": 180.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/095.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/095.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/095.webp"
     ],
     "stock": 60,
@@ -1336,7 +1336,7 @@
     "price": 70.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/096.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/096.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/096.webp"
     ],
     "stock": 100,
@@ -1350,7 +1350,7 @@
     "price": 25.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/097.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/097.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/097.webp"
     ],
     "stock": 150,
@@ -1364,7 +1364,7 @@
     "price": 40.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/098.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/098.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/098.webp"
     ],
     "stock": 120,
@@ -1378,7 +1378,7 @@
     "price": 50.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/099.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/099.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/099.webp"
     ],
     "stock": 180,
@@ -1392,7 +1392,7 @@
     "price": 25.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/100.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/100.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/100.webp"
     ],
     "stock": 300,
@@ -1406,7 +1406,7 @@
     "price": 65.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/101.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/101.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/101.webp"
     ],
     "stock": 100,
@@ -1420,7 +1420,7 @@
     "price": 18.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/102.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/102.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/102.webp"
     ],
     "stock": 200,
@@ -1434,7 +1434,7 @@
     "price": 30.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/103.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/103.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/103.webp"
     ],
     "stock": 150,
@@ -1448,7 +1448,7 @@
     "price": 45.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/104.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/104.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/104.webp"
     ],
     "stock": 120,
@@ -1462,7 +1462,7 @@
     "price": 10.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/105.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/105.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/105.webp"
     ],
     "stock": 500,
@@ -1476,7 +1476,7 @@
     "price": 20.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/106.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/106.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/106.webp"
     ],
     "stock": 300,
@@ -1490,7 +1490,7 @@
     "price": 12.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/107.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/107.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/107.webp"
     ],
     "stock": 400,
@@ -1504,7 +1504,7 @@
     "price": 8.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/108.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/108.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/108.webp"
     ],
     "stock": 600,
@@ -1518,7 +1518,7 @@
     "price": 50.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/109.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/109.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/109.webp"
     ],
     "stock": 150,
@@ -1532,7 +1532,7 @@
     "price": 75.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/110.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/110.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/110.webp"
     ],
     "stock": 100,
@@ -1546,7 +1546,7 @@
     "price": 180.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/111.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/111.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/111.webp"
     ],
     "stock": 70,
@@ -1560,7 +1560,7 @@
     "price": 35.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/112.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/112.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/112.webp"
     ],
     "stock": 250,
@@ -1574,7 +1574,7 @@
     "price": 40.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/113.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/113.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/113.webp"
     ],
     "stock": 200,
@@ -1588,7 +1588,7 @@
     "price": 50.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/114.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/114.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/114.webp"
     ],
     "stock": 180,
@@ -1602,7 +1602,7 @@
     "price": 180.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/115.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/115.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/115.webp"
     ],
     "stock": 80,
@@ -1616,7 +1616,7 @@
     "price": 95.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/116.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/116.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/116.webp"
     ],
     "stock": 120,
@@ -1630,7 +1630,7 @@
     "price": 60.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/117.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/117.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/117.webp"
     ],
     "stock": 150,
@@ -1644,7 +1644,7 @@
     "price": 100.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/118.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/118.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/118.webp"
     ],
     "stock": 90,
@@ -1658,7 +1658,7 @@
     "price": 30.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/119.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/119.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/119.webp"
     ],
     "stock": 200,
@@ -1672,7 +1672,7 @@
     "price": 45.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/120.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/120.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/120.webp"
     ],
     "stock": 180,
@@ -1686,7 +1686,7 @@
     "price": 80.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/121.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/121.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/121.webp"
     ],
     "stock": 100,
@@ -1700,7 +1700,7 @@
     "price": 120.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/122.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/122.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/122.webp"
     ],
     "stock": 70,
@@ -1714,7 +1714,7 @@
     "price": 16.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/123.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/123.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/123.webp"
     ],
     "stock": 250,
@@ -1728,7 +1728,7 @@
     "price": 22.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/124.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/124.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/124.webp"
     ],
     "stock": 300,
@@ -1742,7 +1742,7 @@
     "price": 20.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/125.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/125.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/125.webp"
     ],
     "stock": 180,
@@ -1756,7 +1756,7 @@
     "price": 40.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/126.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/126.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/126.webp"
     ],
     "stock": 150,
@@ -1770,7 +1770,7 @@
     "price": 80.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/127.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/127.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/127.webp"
     ],
     "stock": 200,
@@ -1784,7 +1784,7 @@
     "price": 25.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/128.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/128.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/128.webp"
     ],
     "stock": 300,
@@ -1798,7 +1798,7 @@
     "price": 30.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/129.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/129.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/129.webp"
     ],
     "stock": 200,
@@ -1812,7 +1812,7 @@
     "price": 15.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/130.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/130.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/130.webp"
     ],
     "stock": 250,
@@ -1826,7 +1826,7 @@
     "price": 60.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/131.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/131.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/131.webp"
     ],
     "stock": 100,
@@ -1840,7 +1840,7 @@
     "price": 20.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/132.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/132.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/132.webp"
     ],
     "stock": 280,
@@ -1854,7 +1854,7 @@
     "price": 18.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/133.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/133.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/133.webp"
     ],
     "stock": 220,
@@ -1868,7 +1868,7 @@
     "price": 15.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/134.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/134.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/134.webp"
     ],
     "stock": 300,
@@ -1882,7 +1882,7 @@
     "price": 70.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/135.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/135.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/135.webp"
     ],
     "stock": 100,
@@ -1896,7 +1896,7 @@
     "price": 35.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/136.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/136.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/136.webp"
     ],
     "stock": 180,
@@ -1910,7 +1910,7 @@
     "price": 10.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/137.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/137.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/137.webp"
     ],
     "stock": 250,
@@ -1924,7 +1924,7 @@
     "price": 45.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/138.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/138.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/138.webp"
     ],
     "stock": 150,
@@ -1938,7 +1938,7 @@
     "price": 20.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/139.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/139.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/139.webp"
     ],
     "stock": 200,
@@ -1952,7 +1952,7 @@
     "price": 15.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/140.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/140.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/140.webp"
     ],
     "stock": 300,
@@ -1966,7 +1966,7 @@
     "price": 30.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/141.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/141.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/141.webp"
     ],
     "stock": 100,
@@ -1980,7 +1980,7 @@
     "price": 18.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/142.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/142.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/142.webp"
     ],
     "stock": 150,
@@ -1994,7 +1994,7 @@
     "price": 40.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/143.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/143.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/143.webp"
     ],
     "stock": 80,
@@ -2008,7 +2008,7 @@
     "price": 120.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/144.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/144.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/144.webp"
     ],
     "stock": 50,
@@ -2022,7 +2022,7 @@
     "price": 30.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/145.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/145.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/145.webp"
     ],
     "stock": 200,
@@ -2036,7 +2036,7 @@
     "price": 45.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/146.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/146.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/146.webp"
     ],
     "stock": 180,
@@ -2050,7 +2050,7 @@
     "price": 35.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/147.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/147.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/147.webp"
     ],
     "stock": 100,
@@ -2064,7 +2064,7 @@
     "price": 18.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/148.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/148.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/148.webp"
     ],
     "stock": 250,
@@ -2078,7 +2078,7 @@
     "price": 28.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/149.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/149.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/149.webp"
     ],
     "stock": 200,
@@ -2092,7 +2092,7 @@
     "price": 60.0,
     "category": "Accessories",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/150.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/150.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/150.webp"
     ],
     "stock": 150,
@@ -2106,7 +2106,7 @@
     "price": 20.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/151.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/151.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/151.webp"
     ],
     "stock": 300,
@@ -2120,7 +2120,7 @@
     "price": 25.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/152.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/152.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/152.webp"
     ],
     "stock": 200,
@@ -2134,7 +2134,7 @@
     "price": 90.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/153.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/153.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/153.webp"
     ],
     "stock": 70,
@@ -2148,7 +2148,7 @@
     "price": 150.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/154.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/154.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/154.webp"
     ],
     "stock": 60,
@@ -2162,7 +2162,7 @@
     "price": 15.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/155.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/155.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/155.webp"
     ],
     "stock": 300,
@@ -2176,7 +2176,7 @@
     "price": 28.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/156.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/156.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/156.webp"
     ],
     "stock": 200,
@@ -2190,7 +2190,7 @@
     "price": 30.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/157.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/157.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/157.webp"
     ],
     "stock": 150,
@@ -2204,7 +2204,7 @@
     "price": 20.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/158.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/158.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/158.webp"
     ],
     "stock": 250,
@@ -2218,7 +2218,7 @@
     "price": 40.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/159.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/159.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/159.webp"
     ],
     "stock": 180,
@@ -2232,7 +2232,7 @@
     "price": 25.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/160.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/160.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/160.webp"
     ],
     "stock": 200,
@@ -2246,7 +2246,7 @@
     "price": 10.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/161.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/161.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/161.webp"
     ],
     "stock": 300,
@@ -2260,7 +2260,7 @@
     "price": 30.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/162.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/162.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/162.webp"
     ],
     "stock": 150,
@@ -2274,7 +2274,7 @@
     "price": 35.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/163.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/163.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/163.webp"
     ],
     "stock": 120,
@@ -2288,7 +2288,7 @@
     "price": 65.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/164.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/164.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/164.webp"
     ],
     "stock": 100,
@@ -2302,7 +2302,7 @@
     "price": 55.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/165.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/165.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/165.webp"
     ],
     "stock": 180,
@@ -2316,7 +2316,7 @@
     "price": 250.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/166.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/166.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/166.webp"
     ],
     "stock": 80,
@@ -2330,7 +2330,7 @@
     "price": 90.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/167.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/167.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/167.webp"
     ],
     "stock": 120,
@@ -2344,7 +2344,7 @@
     "price": 150.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/168.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/168.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/168.webp"
     ],
     "stock": 70,
@@ -2358,7 +2358,7 @@
     "price": 20.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/169.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/169.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/169.webp"
     ],
     "stock": 200,
@@ -2372,7 +2372,7 @@
     "price": 200.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/170.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/170.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/170.webp"
     ],
     "stock": 50,
@@ -2386,7 +2386,7 @@
     "price": 30.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/171.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/171.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/171.webp"
     ],
     "stock": 250,
@@ -2400,7 +2400,7 @@
     "price": 40.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/172.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/172.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/172.webp"
     ],
     "stock": 150,
@@ -2414,7 +2414,7 @@
     "price": 25.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/173.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/173.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/173.webp"
     ],
     "stock": 200,
@@ -2428,7 +2428,7 @@
     "price": 90.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/174.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/174.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/174.webp"
     ],
     "stock": 80,
@@ -2442,7 +2442,7 @@
     "price": 15.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/175.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/175.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/175.webp"
     ],
     "stock": 250,
@@ -2456,7 +2456,7 @@
     "price": 70.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/176.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/176.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/176.webp"
     ],
     "stock": 120,
@@ -2470,7 +2470,7 @@
     "price": 15.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/177.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/177.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/177.webp"
     ],
     "stock": 400,
@@ -2484,7 +2484,7 @@
     "price": 50.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/178.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/178.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/178.webp"
     ],
     "stock": 150,
@@ -2498,7 +2498,7 @@
     "price": 25.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/179.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/179.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/179.webp"
     ],
     "stock": 200,
@@ -2512,7 +2512,7 @@
     "price": 40.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/180.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/180.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/180.webp"
     ],
     "stock": 180,
@@ -2526,7 +2526,7 @@
     "price": 28.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/181.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/181.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/181.webp"
     ],
     "stock": 220,
@@ -2540,7 +2540,7 @@
     "price": 60.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/182.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/182.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/182.webp"
     ],
     "stock": 90,
@@ -2554,7 +2554,7 @@
     "price": 30.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/183.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/183.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/183.webp"
     ],
     "stock": 150,
@@ -2568,7 +2568,7 @@
     "price": 50.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/184.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/184.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/184.webp"
     ],
     "stock": 180,
@@ -2582,7 +2582,7 @@
     "price": 18.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/185.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/185.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/185.webp"
     ],
     "stock": 200,
@@ -2596,7 +2596,7 @@
     "price": 20.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/186.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/186.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/186.webp"
     ],
     "stock": 100,
@@ -2610,7 +2610,7 @@
     "price": 35.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/187.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/187.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/187.webp"
     ],
     "stock": 300,
@@ -2624,7 +2624,7 @@
     "price": 150.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/188.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/188.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/188.webp"
     ],
     "stock": 70,
@@ -2638,7 +2638,7 @@
     "price": 40.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/189.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/189.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/189.webp"
     ],
     "stock": 180,
@@ -2652,7 +2652,7 @@
     "price": 18.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/190.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/190.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/190.webp"
     ],
     "stock": 250,
@@ -2666,7 +2666,7 @@
     "price": 70.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/191.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/191.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/191.webp"
     ],
     "stock": 100,
@@ -2680,7 +2680,7 @@
     "price": 30.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/192.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/192.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/192.webp"
     ],
     "stock": 200,
@@ -2694,7 +2694,7 @@
     "price": 45.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/193.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/193.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/193.webp"
     ],
     "stock": 150,
@@ -2708,7 +2708,7 @@
     "price": 80.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/194.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/194.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/194.webp"
     ],
     "stock": 90,
@@ -2722,7 +2722,7 @@
     "price": 12.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/195.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/195.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/195.webp"
     ],
     "stock": 300,
@@ -2736,7 +2736,7 @@
     "price": 50.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/196.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/196.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/196.webp"
     ],
     "stock": 100,
@@ -2750,7 +2750,7 @@
     "price": 40.0,
     "category": "Apparel",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/197.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/197.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/197.webp"
     ],
     "stock": 180,
@@ -2764,7 +2764,7 @@
     "price": 50.0,
     "category": "Electronics",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/198.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/198.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/198.webp"
     ],
     "stock": 200,
@@ -2778,7 +2778,7 @@
     "price": 20.0,
     "category": "Home & Kitchen",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/199.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/199.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/199.webp"
     ],
     "stock": 250,
@@ -2792,7 +2792,7 @@
     "price": 17.0,
     "category": "Books",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/200.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/200.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/200.webp"
     ],
     "stock": 300,
@@ -2806,7 +2806,7 @@
     "price": 80.0,
     "category": "Sports & Outdoors",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/201.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/201.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/201.webp"
     ],
     "stock": 100,
@@ -2820,7 +2820,7 @@
     "price": 10.0,
     "category": "Beauty & Personal Care",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/202.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/202.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/202.webp"
     ],
     "stock": 350,
@@ -2834,7 +2834,7 @@
     "price": 70.0,
     "category": "Toys & Games",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/203.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/203.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/203.webp"
     ],
     "stock": 80,
@@ -2848,7 +2848,7 @@
     "price": 15.0,
     "category": "Automotive",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/204.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/204.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/204.webp"
     ],
     "stock": 250,
@@ -2862,7 +2862,7 @@
     "price": 8.0,
     "category": "Pet Supplies",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/205.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/205.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/205.webp"
     ],
     "stock": 400,
@@ -2876,7 +2876,7 @@
     "price": 20.0,
     "category": "Jewelry",
     "imageUrl": [
-      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/206.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/lowres/206.webp",
       "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/206.webp"
     ],
     "stock": 150,
