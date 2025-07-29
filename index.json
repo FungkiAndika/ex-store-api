@@ -5,7 +5,10 @@
     "description": "Latest smartphone with 108MP camera and long-lasting battery.",
     "price": 799.99,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/001.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/001.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/001.webp"
+    ],
     "stock": 150,
     "rating": 4.8,
     "brand": "TechPro"
@@ -16,7 +19,10 @@
     "description": "Thin and lightweight laptop, ideal for productivity and entertainment.",
     "price": 1200.5,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/002.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/002.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/002.webp"
+    ],
     "stock": 80,
     "rating": 4.7,
     "brand": "CompMaster"
@@ -27,7 +33,10 @@
     "description": "Premium sound quality with active noise cancellation.",
     "price": 199.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/003.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/003.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/003.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "AudioLux"
@@ -38,7 +47,10 @@
     "description": "Monitor your heart rate, steps, and sleep all day long.",
     "price": 129.99,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/004.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/004.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/004.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "WearTech"
@@ -49,7 +61,10 @@
     "description": "Capture moments with incredible detail and accurate colors.",
     "price": 899.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/005.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/005.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/005.webp"
+    ],
     "stock": 60,
     "rating": 4.9,
     "brand": "PhotoGear"
@@ -60,7 +75,10 @@
     "description": "Immersive viewing experience with 4K resolution and vibrant colors.",
     "price": 1500.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/006.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/006.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/006.webp"
+    ],
     "stock": 40,
     "rating": 4.8,
     "brand": "VisualMaster"
@@ -71,7 +89,10 @@
     "description": "Comfortable t-shirt made from 100% organic cotton, perfect for everyday wear.",
     "price": 25.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/007.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/007.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/007.webp"
+    ],
     "stock": 500,
     "rating": 4.5,
     "brand": "ComfortWear"
@@ -82,7 +103,10 @@
     "description": "Modern jeans with a stylish slim fit cut.",
     "price": 55.99,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/008.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/008.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/008.webp"
+    ],
     "stock": 350,
     "rating": 4.4,
     "brand": "DenimCo"
@@ -93,7 +117,10 @@
     "description": "Long dress with an elegant design, perfect for formal events.",
     "price": 120.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/009.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/009.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/009.webp"
+    ],
     "stock": 100,
     "rating": 4.7,
     "brand": "ChicAttire"
@@ -104,7 +131,10 @@
     "description": "Versatile bomber jacket, suitable for a casual style.",
     "price": 75.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/010.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/010.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/010.webp"
+    ],
     "stock": 200,
     "rating": 4.3,
     "brand": "UrbanStyle"
@@ -115,7 +145,10 @@
     "description": "Iconic sneaker shoes with maximum comfort.",
     "price": 85.5,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/011.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/011.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/011.webp"
+    ],
     "stock": 400,
     "rating": 4.6,
     "brand": "StrideFoot"
@@ -126,7 +159,10 @@
     "description": "Genuine leather boots, durable and stylish.",
     "price": 150.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/012.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/012.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/012.webp"
+    ],
     "stock": 120,
     "rating": 4.8,
     "brand": "LeatherCraft"
@@ -137,7 +173,10 @@
     "description": "Make your favorite coffee easily with one touch.",
     "price": 250.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/013.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/013.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/013.webp"
+    ],
     "stock": 90,
     "rating": 4.7,
     "brand": "BrewMaster"
@@ -148,7 +187,10 @@
     "description": "High-powered blender for smoothies, soups, and sauces.",
     "price": 70.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/014.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/014.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/014.webp"
+    ],
     "stock": 180,
     "rating": 4.5,
     "brand": "KitchenAid"
@@ -159,7 +201,10 @@
     "description": "Toast bread perfectly with 4 slots and temperature settings.",
     "price": 45.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/015.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/015.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/015.webp"
+    ],
     "stock": 220,
     "rating": 4.3,
     "brand": "ToastPro"
@@ -170,7 +215,10 @@
     "description": "Complete set of non-stick pots and pans for a modern kitchen.",
     "price": 180.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/016.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/016.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/016.webp"
+    ],
     "stock": 70,
     "rating": 4.8,
     "brand": "CookWell"
@@ -181,7 +229,10 @@
     "description": "Clean your home automatically with a smart robot vacuum.",
     "price": 350.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/017.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/017.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/017.webp"
+    ],
     "stock": 50,
     "rating": 4.9,
     "brand": "CleanBot"
@@ -192,7 +243,10 @@
     "description": "Luxurious sheets made from Egyptian cotton, providing maximum sleep comfort.",
     "price": 90.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/018.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/018.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/018.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "DreamLinen"
@@ -203,7 +257,10 @@
     "description": "A captivating science fiction novel about alternative realities.",
     "price": 18.5,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/019.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/019.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/019.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "LiteraryPress"
@@ -214,7 +271,10 @@
     "description": "An easy-to-understand explanation of the universe and physics.",
     "price": 22.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/020.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/020.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/020.webp"
+    ],
     "stock": 250,
     "rating": 4.7,
     "brand": "ScholarlyBooks"
@@ -225,7 +285,10 @@
     "description": "Learn how habits shape your life and how to change them.",
     "price": 15.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/021.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/021.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/021.webp"
+    ],
     "stock": 400,
     "rating": 4.6,
     "brand": "InspireReads"
@@ -236,7 +299,10 @@
     "description": "Thick and comfortable yoga mat, ideal for all levels.",
     "price": 30.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/022.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/022.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/022.webp"
+    ],
     "stock": 280,
     "rating": 4.4,
     "brand": "SportFit"
@@ -247,7 +313,10 @@
     "description": "Weight-adjustable dumbbells, space-saving.",
     "price": 120.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/023.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/023.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/023.webp"
+    ],
     "stock": 100,
     "rating": 4.8,
     "brand": "GymPro"
@@ -258,7 +327,10 @@
     "description": "Lightweight and easy-to-set-up tent, perfect for outdoor adventures.",
     "price": 95.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/024.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/024.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/024.webp"
+    ],
     "stock": 75,
     "rating": 4.5,
     "brand": "OutdoorGear"
@@ -269,7 +341,10 @@
     "description": "Sturdy hiking shoes with waterproof protection.",
     "price": 110.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/025.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/025.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/025.webp"
+    ],
     "stock": 90,
     "rating": 4.7,
     "brand": "TrailBlazer"
@@ -280,7 +355,10 @@
     "description": "Rugged mountain bike for tough terrain and adventures.",
     "price": 600.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/026.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/026.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/026.webp"
+    ],
     "stock": 30,
     "rating": 4.9,
     "brand": "BikeMaster"
@@ -291,7 +369,10 @@
     "description": "A range of products for younger-looking, radiant skin.",
     "price": 85.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/027.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/027.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/027.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "GlowSkin"
@@ -302,7 +383,10 @@
     "description": "Luxurious and long-lasting fragrance for men and women.",
     "price": 65.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/028.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/028.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/028.webp"
+    ],
     "stock": 200,
     "rating": 4.7,
     "brand": "ScentLux"
@@ -313,7 +397,10 @@
     "description": "Fast-drying hair dryer with ionic technology.",
     "price": 50.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/029.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/029.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/029.webp"
+    ],
     "stock": 180,
     "rating": 4.4,
     "brand": "HairStylist"
@@ -324,7 +411,10 @@
     "description": "Complete kit for a clean and comfortable shave.",
     "price": 40.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/030.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/030.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/030.webp"
+    ],
     "stock": 250,
     "rating": 4.3,
     "brand": "SmoothShave"
@@ -335,7 +425,10 @@
     "description": "A board game that challenges your mind and strategy.",
     "price": 35.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/031.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/031.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/031.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "GameWorks"
@@ -346,7 +439,10 @@
     "description": "Detailed action figure of your favorite superhero.",
     "price": 20.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/032.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/032.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/032.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "HeroToys"
@@ -357,7 +453,10 @@
     "description": "Challenging puzzle with a beautiful landscape image.",
     "price": 15.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/033.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/033.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/033.webp"
+    ],
     "stock": 200,
     "rating": 4.2,
     "brand": "PuzzleMania"
@@ -368,7 +467,10 @@
     "description": "Tough RC car for all-terrain adventures.",
     "price": 55.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/034.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/034.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/034.webp"
+    ],
     "stock": 120,
     "rating": 4.7,
     "brand": "RCFun"
@@ -379,7 +481,10 @@
     "description": "Set of car interior accessories for a luxurious and comfortable look.",
     "price": 75.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/035.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/035.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/035.webp"
+    ],
     "stock": 100,
     "rating": 4.5,
     "brand": "CarLux"
@@ -390,7 +495,10 @@
     "description": "Versatile car tires for optimal performance in all weather conditions.",
     "price": 120.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/036.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/036.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/036.webp"
+    ],
     "stock": 80,
     "rating": 4.8,
     "brand": "TirePro"
@@ -401,7 +509,10 @@
     "description": "Everything you need to keep your car clean and shiny.",
     "price": 45.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/037.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/037.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/037.webp"
+    ],
     "stock": 150,
     "rating": 4.4,
     "brand": "AutoClean"
@@ -412,7 +523,10 @@
     "description": "High-quality grain-free dog food for optimal health.",
     "price": 60.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/038.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/038.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/038.webp"
+    ],
     "stock": 200,
     "rating": 4.7,
     "brand": "PetHealth"
@@ -423,7 +537,10 @@
     "description": "A toy that stimulates your cat's hunting instincts.",
     "price": 12.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/039.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/039.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/039.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "KittyPlay"
@@ -434,7 +551,10 @@
     "description": "Soft and comfortable bed for your dog or cat.",
     "price": 80.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/040.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/040.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/040.webp"
+    ],
     "stock": 100,
     "rating": 4.6,
     "brand": "PetComfort"
@@ -445,7 +565,10 @@
     "description": "Elegant gold necklace with a classic and sparkling design.",
     "price": 450.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/041.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/041.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/041.webp"
+    ],
     "stock": 50,
     "rating": 4.9,
     "brand": "JewelCo"
@@ -456,7 +579,10 @@
     "description": "A stunning solitaire diamond ring, perfect for engagement.",
     "price": 1500.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/042.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/042.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/042.webp"
+    ],
     "stock": 20,
     "rating": 5.0,
     "brand": "DiamondLux"
@@ -467,7 +593,10 @@
     "description": "Natural pearl earrings with a beautiful luster and minimalist design.",
     "price": 90.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/043.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/043.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/043.webp"
+    ],
     "stock": 80,
     "rating": 4.7,
     "brand": "PearlGems"
@@ -478,7 +607,10 @@
     "description": "Sterling silver bracelet with unique hand-engraved details.",
     "price": 70.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/044.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/044.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/044.webp"
+    ],
     "stock": 100,
     "rating": 4.6,
     "brand": "SilverArt"
@@ -489,7 +621,10 @@
     "description": "Formal shirt with high-quality material, suitable for office wear.",
     "price": 45.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/045.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/045.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/045.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "FormalWear"
@@ -500,7 +635,10 @@
     "description": "Midi skirt with elegant pleats, comfortable and stylish.",
     "price": 38.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/046.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/046.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/046.webp"
+    ],
     "stock": 180,
     "rating": 4.3,
     "brand": "Fashionista"
@@ -511,7 +649,10 @@
     "description": "Thick knitted sweater, perfect for winter.",
     "price": 60.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/047.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/047.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/047.webp"
+    ],
     "stock": 150,
     "rating": 4.5,
     "brand": "WinterComfort"
@@ -522,7 +663,10 @@
     "description": "Baseball cap with a classic design and cotton material.",
     "price": 15.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/048.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/048.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/048.webp"
+    ],
     "stock": 300,
     "rating": 4.2,
     "brand": "Headwear"
@@ -533,7 +677,10 @@
     "description": "Sunglasses with polarized lenses for maximum UV protection.",
     "price": 40.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/049.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/049.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/049.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "SunGuard"
@@ -544,7 +691,10 @@
     "description": "Men's genuine leather wallet with multiple card slots.",
     "price": 50.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/050.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/050.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/050.webp"
+    ],
     "stock": 180,
     "rating": 4.7,
     "brand": "LeatherGoods"
@@ -555,7 +705,10 @@
     "description": "Stylish crossbody bag with enough space for daily essentials.",
     "price": 70.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/051.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/051.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/051.webp"
+    ],
     "stock": 160,
     "rating": 4.5,
     "brand": "BagFashion"
@@ -566,7 +719,10 @@
     "description": "Windproof and rainproof automatic folding umbrella.",
     "price": 25.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/052.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/052.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/052.webp"
+    ],
     "stock": 220,
     "rating": 4.3,
     "brand": "RainGuard"
@@ -577,7 +733,10 @@
     "description": "Warm and comfortable gloves for cold weather.",
     "price": 20.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/053.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/053.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/053.webp"
+    ],
     "stock": 100,
     "rating": 4.4,
     "brand": "WarmHands"
@@ -588,7 +747,10 @@
     "description": "Wireless speaker with clear sound and strong bass.",
     "price": 80.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/054.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/054.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/054.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "SoundWave"
@@ -599,7 +761,10 @@
     "description": "High-capacity power bank for charging multiple devices.",
     "price": 45.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/055.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/055.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/055.webp"
+    ],
     "stock": 350,
     "rating": 4.5,
     "brand": "ChargeFast"
@@ -610,7 +775,10 @@
     "description": "Precision gaming mouse with customizable RGB lighting.",
     "price": 35.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/056.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/056.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/056.webp"
+    ],
     "stock": 280,
     "rating": 4.7,
     "brand": "GameGear"
@@ -621,7 +789,10 @@
     "description": "Responsive mechanical keyboard for the best typing and gaming experience.",
     "price": 90.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/057.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/057.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/057.webp"
+    ],
     "stock": 120,
     "rating": 4.8,
     "brand": "KeyMaster"
@@ -632,7 +803,10 @@
     "description": "Curved ultra-wide monitor for an immersive gaming experience.",
     "price": 400.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/058.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/058.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/058.webp"
+    ],
     "stock": 60,
     "rating": 4.9,
     "brand": "ViewSonic"
@@ -643,7 +817,10 @@
     "description": "Multifunction printer with wireless connectivity for home or office.",
     "price": 150.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/059.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/059.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/059.webp"
+    ],
     "stock": 100,
     "rating": 4.3,
     "brand": "PrintFast"
@@ -654,7 +831,10 @@
     "description": "Latest generation router for super-fast internet speeds.",
     "price": 130.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/060.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/060.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/060.webp"
+    ],
     "stock": 90,
     "rating": 4.7,
     "brand": "NetConnect"
@@ -665,7 +845,10 @@
     "description": "Soft and warm flannel shirt, suitable for a casual style.",
     "price": 30.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/061.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/061.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/061.webp"
+    ],
     "stock": 250,
     "rating": 4.3,
     "brand": "Lumberjack"
@@ -676,7 +859,10 @@
     "description": "Comfortable and stylish chino pants for various occasions.",
     "price": 48.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/062.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/062.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/062.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "UrbanWear"
@@ -687,7 +873,10 @@
     "description": "Lightweight blouse with a cheerful floral print.",
     "price": 35.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/063.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/063.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/063.webp"
+    ],
     "stock": 180,
     "rating": 4.2,
     "brand": "FloraFashion"
@@ -698,7 +887,10 @@
     "description": "Soft knitted cardigan, perfect for an extra layer.",
     "price": 40.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/064.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/064.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/064.webp"
+    ],
     "stock": 160,
     "rating": 4.5,
     "brand": "CozyKnit"
@@ -709,7 +901,10 @@
     "description": "Super soft cotton pajamas for a good night's sleep.",
     "price": 30.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/065.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/065.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/065.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "SleepWell"
@@ -720,7 +915,10 @@
     "description": "Soft and lightweight flip-flops, ideal for relaxing.",
     "price": 15.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/066.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/066.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/066.webp"
+    ],
     "stock": 400,
     "rating": 4.1,
     "brand": "BeachWalk"
@@ -731,7 +929,10 @@
     "description": "Gaming chair with ergonomic support for maximum comfort.",
     "price": 250.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/067.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/067.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/067.webp"
+    ],
     "stock": 70,
     "rating": 4.8,
     "brand": "ErgoChair"
@@ -742,7 +943,10 @@
     "description": "Modern desk with a minimalist design, suitable for small spaces.",
     "price": 120.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/068.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/068.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/068.webp"
+    ],
     "stock": 90,
     "rating": 4.5,
     "brand": "HomeOffice"
@@ -753,7 +957,10 @@
     "description": "LED desk lamp with a flexible neck and brightness settings.",
     "price": 30.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/069.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/069.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/069.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "LightUp"
@@ -764,7 +971,10 @@
     "description": "Hanging bookshelf with a modern design, space-saving.",
     "price": 55.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/070.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/070.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/070.webp"
+    ],
     "stock": 150,
     "rating": 4.3,
     "brand": "WallDecor"
@@ -775,7 +985,10 @@
     "description": "Pillow that supports the neck and spine for a restful sleep.",
     "price": 40.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/071.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/071.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/071.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "SleepComfort"
@@ -786,7 +999,10 @@
     "description": "Soft and highly absorbent towels made from bamboo cotton.",
     "price": 35.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/072.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/072.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/072.webp"
+    ],
     "stock": 180,
     "rating": 4.5,
     "brand": "EcoHome"
@@ -797,7 +1013,10 @@
     "description": "A collection of recipes from various countries.",
     "price": 25.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/073.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/073.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/073.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "FoodieBooks"
@@ -808,7 +1027,10 @@
     "description": "An educational and entertaining illustrated storybook for children.",
     "price": 12.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/074.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/074.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/074.webp"
+    ],
     "stock": 350,
     "rating": 4.7,
     "brand": "KidsReads"
@@ -819,7 +1041,10 @@
     "description": "An in-depth exploration of ancient civilizations around the world.",
     "price": 28.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/075.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/075.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/075.webp"
+    ],
     "stock": 150,
     "rating": 4.8,
     "brand": "HistoryPress"
@@ -830,7 +1055,10 @@
     "description": "Complete set for playing table tennis at home or outdoors.",
     "price": 50.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/076.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/076.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/076.webp"
+    ],
     "stock": 120,
     "rating": 4.3,
     "brand": "TableTennis"
@@ -841,7 +1069,10 @@
     "description": "Standard size basketball with optimal grip.",
     "price": 30.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/077.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/077.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/077.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "HoopStar"
@@ -852,7 +1083,10 @@
     "description": "Comfortable backpack with many compartments for long journeys.",
     "price": 85.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/078.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/078.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/078.webp"
+    ],
     "stock": 90,
     "rating": 4.7,
     "brand": "AdventurePack"
@@ -863,7 +1097,10 @@
     "description": "Quick-drying swimwear with a sporty design.",
     "price": 28.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/079.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/079.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/079.webp"
+    ],
     "stock": 180,
     "rating": 4.2,
     "brand": "SwimFit"
@@ -874,7 +1111,10 @@
     "description": "One-piece swimwear with a fashionable and comfortable design.",
     "price": 45.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/080.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/080.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/080.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "AquaChic"
@@ -885,7 +1125,10 @@
     "description": "Water-resistant sunscreen with SPF 50+ protection.",
     "price": 20.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/081.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/081.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/081.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "SunProtect"
@@ -896,7 +1139,10 @@
     "description": "Intensely hydrating facial moisturizer with hyaluronic acid.",
     "price": 35.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/082.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/082.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/082.webp"
+    ],
     "stock": 250,
     "rating": 4.7,
     "brand": "HydraSkin"
@@ -907,7 +1153,10 @@
     "description": "Shampoo formulated to reduce hair loss.",
     "price": 18.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/083.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/083.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/083.webp"
+    ],
     "stock": 280,
     "rating": 4.3,
     "brand": "HairCare"
@@ -918,7 +1167,10 @@
     "description": "Conditioner that moisturizes and smooths dry and damaged hair.",
     "price": 18.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/084.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/084.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/084.webp"
+    ],
     "stock": 280,
     "rating": 4.4,
     "brand": "HairCare"
@@ -929,7 +1181,10 @@
     "description": "Building block set that stimulates children's creativity and motor skills.",
     "price": 25.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/085.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/085.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/085.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "EduPlay"
@@ -940,7 +1195,10 @@
     "description": "Large and cuddly teddy bear, a perfect sleeping companion.",
     "price": 30.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/086.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/086.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/086.webp"
+    ],
     "stock": 180,
     "rating": 4.8,
     "brand": "CuddleBuddies"
@@ -951,7 +1209,10 @@
     "description": "Complete kitchen toy set for children's role-playing.",
     "price": 40.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/087.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/087.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/087.webp"
+    ],
     "stock": 150,
     "rating": 4.5,
     "brand": "ToyChef"
@@ -962,7 +1223,10 @@
     "description": "Small, easy-to-control drone with a high-definition camera.",
     "price": 90.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/088.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/088.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/088.webp"
+    ],
     "stock": 80,
     "rating": 4.7,
     "brand": "SkyToy"
@@ -973,7 +1237,10 @@
     "description": "Car charger with two USB ports for fast charging.",
     "price": 15.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/089.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/089.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/089.webp"
+    ],
     "stock": 300,
     "rating": 4.3,
     "brand": "AutoCharge"
@@ -984,7 +1251,10 @@
     "description": "Car air freshener with a refreshing coffee aroma.",
     "price": 8.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/090.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/090.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/090.webp"
+    ],
     "stock": 500,
     "rating": 4.1,
     "brand": "FreshRide"
@@ -995,7 +1265,10 @@
     "description": "Comfortable and easy-to-install car seat covers.",
     "price": 60.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/091.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/091.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/091.webp"
+    ],
     "stock": 120,
     "rating": 4.4,
     "brand": "SeatComfort"
@@ -1006,7 +1279,10 @@
     "description": "Dry cat food with complete nutrition for adult cats.",
     "price": 35.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/092.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/092.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/092.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "PurrfectFood"
@@ -1017,7 +1293,10 @@
     "description": "Warm clothing for small dogs, suitable for winter.",
     "price": 25.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/093.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/093.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/093.webp"
+    ],
     "stock": 180,
     "rating": 4.2,
     "brand": "PetFashion"
@@ -1028,7 +1307,10 @@
     "description": "Special comb for removing tangled fur on cats.",
     "price": 10.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/094.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/094.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/094.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "GroomPet"
@@ -1039,7 +1321,10 @@
     "description": "Necklace with a beautiful natural gemstone pendant.",
     "price": 180.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/095.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/095.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/095.webp"
+    ],
     "stock": 60,
     "rating": 4.8,
     "brand": "GemstoneArt"
@@ -1050,7 +1335,10 @@
     "description": "Classic gold hoop earrings, suitable for everyday style.",
     "price": 70.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/096.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/096.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/096.webp"
+    ],
     "stock": 100,
     "rating": 4.6,
     "brand": "GoldGlam"
@@ -1061,7 +1349,10 @@
     "description": "Hand-woven bracelet with a unique ethnic motif.",
     "price": 25.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/097.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/097.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/097.webp"
+    ],
     "stock": 150,
     "rating": 4.2,
     "brand": "ArtisanCraft"
@@ -1072,7 +1363,10 @@
     "description": "Set of thin rings with a minimalist design, perfect for stacking.",
     "price": 40.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/098.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/098.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/098.webp"
+    ],
     "stock": 120,
     "rating": 4.5,
     "brand": "MinimalJewel"
@@ -1083,7 +1377,10 @@
     "description": "Classic denim shirt with a modern cut.",
     "price": 50.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/099.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/099.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/099.webp"
+    ],
     "stock": 180,
     "rating": 4.4,
     "brand": "DenimStyle"
@@ -1094,7 +1391,10 @@
     "description": "Comfortable cotton shorts for summer.",
     "price": 25.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/100.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/100.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/100.webp"
+    ],
     "stock": 300,
     "rating": 4.1,
     "brand": "SummerWear"
@@ -1105,7 +1405,10 @@
     "description": "Lightweight waterproof jacket, ideal for rainy weather.",
     "price": 65.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/101.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/101.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/101.webp"
+    ],
     "stock": 100,
     "rating": 4.6,
     "brand": "RainGear"
@@ -1116,7 +1419,10 @@
     "description": "Warm and stylish knitted beanie hat for winter.",
     "price": 18.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/102.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/102.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/102.webp"
+    ],
     "stock": 200,
     "rating": 4.3,
     "brand": "WinterStyle"
@@ -1127,7 +1433,10 @@
     "description": "Super soft wool scarf, providing extra warmth.",
     "price": 30.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/103.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/103.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/103.webp"
+    ],
     "stock": 150,
     "rating": 4.5,
     "brand": "WarmAccents"
@@ -1138,7 +1447,10 @@
     "description": "Leather gloves with touchscreen capability.",
     "price": 45.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/104.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/104.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/104.webp"
+    ],
     "stock": 120,
     "rating": 4.7,
     "brand": "TouchGlove"
@@ -1149,7 +1461,10 @@
     "description": "Fast and durable USB-C charger cable.",
     "price": 10.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/105.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/105.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/105.webp"
+    ],
     "stock": 500,
     "rating": 4.6,
     "brand": "CableTech"
@@ -1160,7 +1475,10 @@
     "description": "Power adapter compatible with various devices.",
     "price": 20.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/106.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/106.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/106.webp"
+    ],
     "stock": 300,
     "rating": 4.4,
     "brand": "PowerHub"
@@ -1171,7 +1489,10 @@
     "description": "Transparent protective case for your smartphone.",
     "price": 12.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/107.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/107.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/107.webp"
+    ],
     "stock": 400,
     "rating": 4.5,
     "brand": "ClearCase"
@@ -1182,7 +1503,10 @@
     "description": "Ultra-thin and scratch-resistant tempered glass screen protector.",
     "price": 8.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/108.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/108.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/108.webp"
+    ],
     "stock": 600,
     "rating": 4.7,
     "brand": "ScreenGuard"
@@ -1193,7 +1517,10 @@
     "description": "High-definition webcam for video calls and streaming.",
     "price": 50.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/109.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/109.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/109.webp"
+    ],
     "stock": 150,
     "rating": 4.3,
     "brand": "CamView"
@@ -1204,7 +1531,10 @@
     "description": "Studio-quality microphone for clear voice recordings.",
     "price": 75.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/110.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/110.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/110.webp"
+    ],
     "stock": 100,
     "rating": 4.8,
     "brand": "AudioPro"
@@ -1215,7 +1545,10 @@
     "description": "Compact projector for entertainment anywhere.",
     "price": 180.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/111.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/111.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/111.webp"
+    ],
     "stock": 70,
     "rating": 4.6,
     "brand": "PocketView"
@@ -1226,7 +1559,10 @@
     "description": "Casual polo shirt with comfortable pique material.",
     "price": 35.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/112.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/112.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/112.webp"
+    ],
     "stock": 250,
     "rating": 4.4,
     "brand": "PoloStyle"
@@ -1237,7 +1573,10 @@
     "description": "Comfortable jogger pants for sports or lounging.",
     "price": 40.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/113.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/113.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/113.webp"
+    ],
     "stock": 200,
     "rating": 4.3,
     "brand": "ActiveWear"
@@ -1248,7 +1587,10 @@
     "description": "Lightweight dress with a bright floral print for summer.",
     "price": 50.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/114.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/114.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/114.webp"
+    ],
     "stock": 180,
     "rating": 4.5,
     "brand": "SummerBloom"
@@ -1259,7 +1601,10 @@
     "description": "Genuine leather jacket with a classic and durable design.",
     "price": 180.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/115.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/115.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/115.webp"
+    ],
     "stock": 80,
     "rating": 4.9,
     "brand": "LeatherJacket"
@@ -1270,7 +1615,10 @@
     "description": "Stylish and comfortable Chelsea boots for everyday wear.",
     "price": 95.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/116.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/116.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/116.webp"
+    ],
     "stock": 120,
     "rating": 4.6,
     "brand": "BootStyle"
@@ -1281,7 +1629,10 @@
     "description": "Complete dinnerware set made from high-quality stainless steel.",
     "price": 60.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/117.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/117.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/117.webp"
+    ],
     "stock": 150,
     "rating": 4.7,
     "brand": "DineWare"
@@ -1292,7 +1643,10 @@
     "description": "Pressure cooker that cooks faster and more efficiently.",
     "price": 100.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/118.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/118.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/118.webp"
+    ],
     "stock": 90,
     "rating": 4.8,
     "brand": "SpeedCook"
@@ -1303,7 +1657,10 @@
     "description": "Set of glass cups with an elegant design for your favorite beverages.",
     "price": 30.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/119.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/119.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/119.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "GlassCraft"
@@ -1314,7 +1671,10 @@
     "description": "Easy-to-use waffle maker with a non-stick surface.",
     "price": 45.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/120.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/120.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/120.webp"
+    ],
     "stock": 180,
     "rating": 4.3,
     "brand": "WafflePro"
@@ -1325,7 +1685,10 @@
     "description": "Coffee table with a minimalist design, suitable for modern living rooms.",
     "price": 80.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/121.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/121.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/121.webp"
+    ],
     "stock": 100,
     "rating": 4.5,
     "brand": "LivingSpace"
@@ -1336,7 +1699,10 @@
     "description": "Pendant lamp with a modern design, providing beautiful lighting.",
     "price": 120.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/122.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/122.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/122.webp"
+    ],
     "stock": 70,
     "rating": 4.8,
     "brand": "Illumina"
@@ -1347,7 +1713,10 @@
     "description": "A comprehensive guide to starting meditation and mindfulness practices.",
     "price": 16.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/123.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/123.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/123.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "MindfulReads"
@@ -1358,7 +1727,10 @@
     "description": "Comprehensive textbook for learning English from scratch.",
     "price": 22.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/124.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/124.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/124.webp"
+    ],
     "stock": 300,
     "rating": 4.4,
     "brand": "LearnFast"
@@ -1369,7 +1741,10 @@
     "description": "Inspirational life stories of influential figures in history.",
     "price": 20.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/125.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/125.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/125.webp"
+    ],
     "stock": 180,
     "rating": 4.7,
     "brand": "LifeStories"
@@ -1380,7 +1755,10 @@
     "description": "Lightweight and strong badminton racket set for casual play.",
     "price": 40.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/126.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/126.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/126.webp"
+    ],
     "stock": 150,
     "rating": 4.3,
     "brand": "ShuttlePlay"
@@ -1391,7 +1769,10 @@
     "description": "Ultra-lightweight running shoes with responsive cushioning.",
     "price": 80.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/127.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/127.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/127.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "RunFast"
@@ -1402,7 +1783,10 @@
     "description": "Durable stainless steel water bottle that keeps drinks cold.",
     "price": 25.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/128.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/128.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/128.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "HydrateNow"
@@ -1413,7 +1797,10 @@
     "description": "Disposable contact lenses for comfort and hygiene.",
     "price": 30.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/129.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/129.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/129.webp"
+    ],
     "stock": 200,
     "rating": 4.4,
     "brand": "ClearVision"
@@ -1424,7 +1811,10 @@
     "description": "Face mask with activated charcoal to cleanse pores.",
     "price": 15.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/130.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/130.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/130.webp"
+    ],
     "stock": 250,
     "rating": 4.6,
     "brand": "PureSkin"
@@ -1435,7 +1825,10 @@
     "description": "Portable massager to relieve muscle pain and tension.",
     "price": 60.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/131.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/131.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/131.webp"
+    ],
     "stock": 100,
     "rating": 4.7,
     "brand": "RelaxTech"
@@ -1446,7 +1839,10 @@
     "description": "Non-sticky and easy-to-mold kinetic sand for children.",
     "price": 20.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/132.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/132.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/132.webp"
+    ],
     "stock": 280,
     "rating": 4.5,
     "brand": "SandFun"
@@ -1457,7 +1853,10 @@
     "description": "Wooden puzzle with animal or number shapes for children's learning.",
     "price": 18.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/133.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/133.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/133.webp"
+    ],
     "stock": 220,
     "rating": 4.6,
     "brand": "WoodPlay"
@@ -1468,7 +1867,10 @@
     "description": "Small scale die-cast toy car with realistic details.",
     "price": 15.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/134.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/134.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/134.webp"
+    ],
     "stock": 300,
     "rating": 4.4,
     "brand": "MiniRacer"
@@ -1479,7 +1881,10 @@
     "description": "Car dashcam with HD recording for road safety.",
     "price": 70.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/135.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/135.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/135.webp"
+    ],
     "stock": 100,
     "rating": 4.5,
     "brand": "DriveSafe"
@@ -1490,7 +1895,10 @@
     "description": "Compact and powerful car vacuum cleaner.",
     "price": 35.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/136.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/136.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/136.webp"
+    ],
     "stock": 180,
     "rating": 4.2,
     "brand": "CarClean"
@@ -1501,7 +1909,10 @@
     "description": "Additional rearview mirror for a wider view when parking.",
     "price": 10.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/137.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/137.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/137.webp"
+    ],
     "stock": 250,
     "rating": 4.1,
     "brand": "ParkAssist"
@@ -1512,7 +1923,10 @@
     "description": "Automatic food and water dispenser for pets.",
     "price": 45.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/138.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/138.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/138.webp"
+    ],
     "stock": 150,
     "rating": 4.7,
     "brand": "AutoPet"
@@ -1523,7 +1937,10 @@
     "description": "Dog collar with LED lights for nighttime safety.",
     "price": 20.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/139.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/139.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/139.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "NightWalk"
@@ -1534,7 +1951,10 @@
     "description": "Strong and durable chew toy for dogs.",
     "price": 15.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/140.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/140.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/140.webp"
+    ],
     "stock": 300,
     "rating": 4.6,
     "brand": "ChewSafe"
@@ -1545,7 +1965,10 @@
     "description": "Elegant brooch adorned with sparkling rhinestones.",
     "price": 30.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/141.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/141.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/141.webp"
+    ],
     "stock": 100,
     "rating": 4.3,
     "brand": "SparkleAccents"
@@ -1556,7 +1979,10 @@
     "description": "Tassel earrings with a unique and trendy bohemian style.",
     "price": 18.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/142.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/142.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/142.webp"
+    ],
     "stock": 150,
     "rating": 4.2,
     "brand": "BohoChic"
@@ -1567,7 +1993,10 @@
     "description": "Bracelet with magnets to help improve circulation.",
     "price": 40.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/143.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/143.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/143.webp"
+    ],
     "stock": 80,
     "rating": 4.0,
     "brand": "WellnessWear"
@@ -1578,7 +2007,10 @@
     "description": "Classic pearl jewelry set for an elegant look.",
     "price": 120.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/144.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/144.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/144.webp"
+    ],
     "stock": 50,
     "rating": 4.9,
     "brand": "TimelessPearls"
@@ -1589,7 +2021,10 @@
     "description": "Hawaiian shirt with a bright motif, perfect for vacation.",
     "price": 30.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/145.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/145.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/145.webp"
+    ],
     "stock": 200,
     "rating": 4.2,
     "brand": "IslandVibes"
@@ -1600,7 +2035,10 @@
     "description": "Wide and comfortable culottes, stylish for various occasions.",
     "price": 45.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/146.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/146.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/146.webp"
+    ],
     "stock": 180,
     "rating": 4.4,
     "brand": "FlowyFashion"
@@ -1611,7 +2049,10 @@
     "description": "Warm knitted vest, suitable for an extra layer in winter.",
     "price": 35.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/147.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/147.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/147.webp"
+    ],
     "stock": 100,
     "rating": 4.3,
     "brand": "KnitWear"
@@ -1622,7 +2063,10 @@
     "description": "Trendy bucket hat for casual style and sun protection.",
     "price": 18.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/148.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/148.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/148.webp"
+    ],
     "stock": 250,
     "rating": 4.1,
     "brand": "StreetStyle"
@@ -1633,7 +2077,10 @@
     "description": "Genuine leather belt with a classic buckle.",
     "price": 28.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/149.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/149.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/149.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "BeltMaster"
@@ -1644,7 +2091,10 @@
     "description": "Backpack with a padded laptop compartment and multiple pockets.",
     "price": 60.0,
     "category": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/150.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/150.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/150.webp"
+    ],
     "stock": 150,
     "rating": 4.7,
     "brand": "TechPack"
@@ -1655,7 +2105,10 @@
     "description": "Mini rechargeable desk fan, ideal for the office.",
     "price": 20.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/151.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/151.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/151.webp"
+    ],
     "stock": 300,
     "rating": 4.3,
     "brand": "CoolBreeze"
@@ -1666,7 +2119,10 @@
     "description": "Precision kitchen scale for cooking ingredients.",
     "price": 25.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/152.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/152.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/152.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "KitchenScale"
@@ -1677,7 +2133,10 @@
     "description": "Set of sharp and durable kitchen knives for home chefs.",
     "price": 90.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/153.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/153.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/153.webp"
+    ],
     "stock": 70,
     "rating": 4.8,
     "brand": "ChefMaster"
@@ -1688,7 +2147,10 @@
     "description": "Air purifier with HEPA filter for clean air at home.",
     "price": 150.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/154.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/154.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/154.webp"
+    ],
     "stock": 60,
     "rating": 4.9,
     "brand": "AirPure"
@@ -1699,7 +2161,10 @@
     "description": "A collection of classic fairy tales loved by all ages.",
     "price": 15.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/155.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/155.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/155.webp"
+    ],
     "stock": 300,
     "rating": 4.7,
     "brand": "StoryTime"
@@ -1710,7 +2175,10 @@
     "description": "Step-by-step guide to learning the basics of coding.",
     "price": 28.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/156.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/156.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/156.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "CodeGuru"
@@ -1721,7 +2189,10 @@
     "description": "Set of high-quality golf balls for maximum performance.",
     "price": 30.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/157.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/157.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/157.webp"
+    ],
     "stock": 150,
     "rating": 4.4,
     "brand": "GolfPro"
@@ -1732,7 +2203,10 @@
     "description": "Padded fitness gloves for hand protection.",
     "price": 20.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/158.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/158.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/158.webp"
+    ],
     "stock": 250,
     "rating": 4.3,
     "brand": "GymGrip"
@@ -1743,7 +2217,10 @@
     "description": "Night cream that helps reduce signs of aging.",
     "price": 40.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/159.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/159.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/159.webp"
+    ],
     "stock": 180,
     "rating": 4.6,
     "brand": "YouthfulSkin"
@@ -1754,7 +2231,10 @@
     "description": "Complete doctor play set for children's role-playing.",
     "price": 25.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/160.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/160.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/160.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "LittleDoc"
@@ -1765,7 +2245,10 @@
     "description": "Car glass cleaning fluid for clear visibility.",
     "price": 10.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/161.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/161.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/161.webp"
+    ],
     "stock": 300,
     "rating": 4.2,
     "brand": "GlassShine"
@@ -1776,7 +2259,10 @@
     "description": "Comfortable small hammock bed for cats to relax.",
     "price": 30.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/162.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/162.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/162.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "CatNap"
@@ -1787,7 +2273,10 @@
     "description": "Sterling silver anklet with a minimalist design.",
     "price": 35.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/163.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/163.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/163.webp"
+    ],
     "stock": 120,
     "rating": 4.4,
     "brand": "AnkleGems"
@@ -1798,7 +2287,10 @@
     "description": "Batik shirt with modern motifs, suitable for formal and casual occasions.",
     "price": 65.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/164.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/164.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/164.webp"
+    ],
     "stock": 100,
     "rating": 4.7,
     "brand": "BatikArt"
@@ -1809,7 +2301,10 @@
     "description": "Distressed style ripped jeans for an edgy look.",
     "price": 55.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/165.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/165.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/165.webp"
+    ],
     "stock": 180,
     "rating": 4.3,
     "brand": "EdgyDenim"
@@ -1820,7 +2315,10 @@
     "description": "Smartwatch with integrated GPS for outdoor activities.",
     "price": 250.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/166.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/166.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/166.webp"
+    ],
     "stock": 80,
     "rating": 4.8,
     "brand": "ExploreTech"
@@ -1831,7 +2329,10 @@
     "description": "Home security camera with wireless connectivity and motion detection.",
     "price": 90.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/167.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/167.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/167.webp"
+    ],
     "stock": 120,
     "rating": 4.6,
     "brand": "SafeHome"
@@ -1842,7 +2343,10 @@
     "description": "Set of pots and pans with a non-stick ceramic coating.",
     "price": 150.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/168.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/168.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/168.webp"
+    ],
     "stock": 70,
     "rating": 4.7,
     "brand": "CeramicCook"
@@ -1853,7 +2357,10 @@
     "description": "A collection of delicious and healthy vegan recipes.",
     "price": 20.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/169.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/169.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/169.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "GreenKitchen"
@@ -1864,7 +2371,10 @@
     "description": "Complete set of fitness equipment for home workouts.",
     "price": 200.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/170.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/170.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/170.webp"
+    ],
     "stock": 50,
     "rating": 4.8,
     "brand": "HomeGym"
@@ -1875,7 +2385,10 @@
     "description": "Facial serum with Vitamin C to brighten skin.",
     "price": 30.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/171.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/171.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/171.webp"
+    ],
     "stock": 250,
     "rating": 4.7,
     "brand": "BrightSkin"
@@ -1886,7 +2399,10 @@
     "description": "Stable and easy-to-fly remote control helicopter toy.",
     "price": 40.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/172.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/172.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/172.webp"
+    ],
     "stock": 150,
     "rating": 4.4,
     "brand": "SkyFly"
@@ -1897,7 +2413,10 @@
     "description": "Genuine leather car steering wheel cover for a comfortable grip.",
     "price": 25.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/173.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/173.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/173.webp"
+    ],
     "stock": 200,
     "rating": 4.5,
     "brand": "GripMaster"
@@ -1908,7 +2427,10 @@
     "description": "Dog bed with memory foam for joint support.",
     "price": 90.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/174.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/174.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/174.webp"
+    ],
     "stock": 80,
     "rating": 4.9,
     "brand": "OrthoPet"
@@ -1919,7 +2441,10 @@
     "description": "Small stud earrings with sparkling rhinestones.",
     "price": 15.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/175.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/175.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/175.webp"
+    ],
     "stock": 250,
     "rating": 4.3,
     "brand": "SparkleStuds"
@@ -1930,7 +2455,10 @@
     "description": "Lightweight and stylish blazer for a smart casual look.",
     "price": 70.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/176.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/176.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/176.webp"
+    ],
     "stock": 120,
     "rating": 4.6,
     "brand": "SmartCasual"
@@ -1941,7 +2469,10 @@
     "description": "High-quality HDMI cable for 4K resolution.",
     "price": 15.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/177.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/177.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/177.webp"
+    ],
     "stock": 400,
     "rating": 4.7,
     "brand": "ConnectPro"
@@ -1952,7 +2483,10 @@
     "description": "Set of ceramic plates with a modern and durable design.",
     "price": 50.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/178.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/178.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/178.webp"
+    ],
     "stock": 150,
     "rating": 4.5,
     "brand": "TableWare"
@@ -1963,7 +2497,10 @@
     "description": "Fantasy novel with a rich world and deep characters.",
     "price": 25.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/179.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/179.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/179.webp"
+    ],
     "stock": 200,
     "rating": 4.8,
     "brand": "FantasyRealm"
@@ -1974,7 +2511,10 @@
     "description": "Compression sportswear for performance and muscle recovery.",
     "price": 40.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/180.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/180.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/180.webp"
+    ],
     "stock": 180,
     "rating": 4.6,
     "brand": "CompFit"
@@ -1985,7 +2525,10 @@
     "description": "Eye cream that reduces dark circles and puffiness.",
     "price": 28.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/181.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/181.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/181.webp"
+    ],
     "stock": 220,
     "rating": 4.5,
     "brand": "EyeRevive"
@@ -1996,7 +2539,10 @@
     "description": "Robot toy that can talk and move, educational for children.",
     "price": 60.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/182.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/182.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/182.webp"
+    ],
     "stock": 90,
     "rating": 4.7,
     "brand": "RoboKids"
@@ -2007,7 +2553,10 @@
     "description": "Foldable organizer to keep your car trunk tidy.",
     "price": 30.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/183.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/183.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/183.webp"
+    ],
     "stock": 150,
     "rating": 4.4,
     "brand": "TrunkTidy"
@@ -2018,7 +2567,10 @@
     "description": "Electric toothbrush with sonic technology for deep cleaning.",
     "price": 50.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/184.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/184.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/184.webp"
+    ],
     "stock": 180,
     "rating": 4.8,
     "brand": "SonicBrush"
@@ -2029,7 +2581,10 @@
     "description": "Very durable chew toy for aggressive chewers.",
     "price": 18.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/185.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/185.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/185.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "ChewTough"
@@ -2040,7 +2595,10 @@
     "description": "Leather choker necklace with metal accents, edgy style.",
     "price": 20.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/186.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/186.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/186.webp"
+    ],
     "stock": 100,
     "rating": 4.1,
     "brand": "EdgyJewels"
@@ -2051,7 +2609,10 @@
     "description": "Comfortable sports leggings with elastic and quick-drying material.",
     "price": 35.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/187.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/187.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/187.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "FlexFit"
@@ -2062,7 +2623,10 @@
     "description": "Waterproof action camera with 4K recording for adventures.",
     "price": 150.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/188.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/188.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/188.webp"
+    ],
     "stock": 70,
     "rating": 4.9,
     "brand": "ActionCam"
@@ -2073,7 +2637,10 @@
     "description": "Easy-to-install water filter for clean drinking water from the tap.",
     "price": 40.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/189.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/189.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/189.webp"
+    ],
     "stock": 180,
     "rating": 4.6,
     "brand": "PureWater"
@@ -2084,7 +2651,10 @@
     "description": "Graphic novel with an engaging story and beautiful illustrations.",
     "price": 18.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/190.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/190.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/190.webp"
+    ],
     "stock": 250,
     "rating": 4.7,
     "brand": "GraphicTales"
@@ -2095,7 +2665,10 @@
     "description": "Complete set of fishing equipment for beginners.",
     "price": 70.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/191.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/191.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/191.webp"
+    ],
     "stock": 100,
     "rating": 4.4,
     "brand": "FishPro"
@@ -2106,7 +2679,10 @@
     "description": "Gentle electric shaver for sensitive skin.",
     "price": 30.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/192.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/192.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/192.webp"
+    ],
     "stock": 200,
     "rating": 4.3,
     "brand": "SmoothTouch"
@@ -2117,7 +2693,10 @@
     "description": "Racing car toy set with an assembleable track.",
     "price": 45.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/193.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/193.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/193.webp"
+    ],
     "stock": 150,
     "rating": 4.6,
     "brand": "RaceTrack"
@@ -2128,7 +2707,10 @@
     "description": "Bright LED car headlights for better nighttime visibility.",
     "price": 80.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/194.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/194.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/194.webp"
+    ],
     "stock": 90,
     "rating": 4.8,
     "brand": "BrightBeam"
@@ -2139,7 +2721,10 @@
     "description": "Cat food bowl with a non-spill design.",
     "price": 12.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/195.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/195.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/195.webp"
+    ],
     "stock": 300,
     "rating": 4.5,
     "brand": "NoSpill"
@@ -2150,7 +2735,10 @@
     "description": "Silver ring with detailed and unique hand engraving.",
     "price": 50.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/196.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/196.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/196.webp"
+    ],
     "stock": 100,
     "rating": 4.7,
     "brand": "ArtisanSilver"
@@ -2161,7 +2749,10 @@
     "description": "Comfortable and stylish casual shirt dress.",
     "price": 40.0,
     "category": "Apparel",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/197.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/197.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/197.webp"
+    ],
     "stock": 180,
     "rating": 4.4,
     "brand": "DressCode"
@@ -2172,7 +2763,10 @@
     "description": "Streaming device that turns a regular TV into a Smart TV.",
     "price": 50.0,
     "category": "Electronics",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/198.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/198.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/198.webp"
+    ],
     "stock": 200,
     "rating": 4.6,
     "brand": "StreamBox"
@@ -2183,7 +2777,10 @@
     "description": "Heat-resistant silicone spatula set for cooking and baking.",
     "price": 20.0,
     "category": "Home & Kitchen",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/199.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/199.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/199.webp"
+    ],
     "stock": 250,
     "rating": 4.5,
     "brand": "BakeWare"
@@ -2194,7 +2791,10 @@
     "description": "Inspirational book that motivates you to achieve life goals.",
     "price": 17.0,
     "category": "Books",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/200.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/200.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/200.webp"
+    ],
     "stock": 300,
     "rating": 4.7,
     "brand": "SuccessReads"
@@ -2205,7 +2805,10 @@
     "description": "Lightweight and strong tennis racket set for beginners and intermediates.",
     "price": 80.0,
     "category": "Sports & Outdoors",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/201.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/201.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/201.webp"
+    ],
     "stock": 100,
     "rating": 4.5,
     "brand": "TennisPro"
@@ -2216,7 +2819,10 @@
     "description": "Lip balm with a hint of color for a natural look.",
     "price": 10.0,
     "category": "Beauty & Personal Care",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/202.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/202.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/202.webp"
+    ],
     "stock": 350,
     "rating": 4.2,
     "brand": "LipCare"
@@ -2227,7 +2833,10 @@
     "description": "Electric train toy set with tracks and locomotive.",
     "price": 70.0,
     "category": "Toys & Games",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/203.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/203.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/203.webp"
+    ],
     "stock": 80,
     "rating": 4.6,
     "brand": "TrainFun"
@@ -2238,7 +2847,10 @@
     "description": "Multipurpose cleaning fluid for car interiors.",
     "price": 15.0,
     "category": "Automotive",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/204.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/204.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/204.webp"
+    ],
     "stock": 250,
     "rating": 4.3,
     "brand": "InteriorClean"
@@ -2249,7 +2861,10 @@
     "description": "Comfortable small hammock bed for hamsters.",
     "price": 8.0,
     "category": "Pet Supplies",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/205.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/205.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/205.webp"
+    ],
     "stock": 400,
     "rating": 4.1,
     "brand": "HamsterHaven"
@@ -2260,7 +2875,10 @@
     "description": "Bold large hoop earrings, perfect for a statement style.",
     "price": 20.0,
     "category": "Jewelry",
-    "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/206.webp",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/206.webp",
+      "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/highres/206.webp"
+    ],
     "stock": 150,
     "rating": 4.0,
     "brand": "BoldJewels"
