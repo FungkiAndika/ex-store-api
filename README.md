@@ -1,4 +1,4 @@
-<center><h1>EX-STORE-API</h1></center>
+<center><h1>EXSTOREAPI</h1></center>
 
 
 <center><p>Contoh API ini dibuat untuk media pembelajaran ataupun dapat digunakan sebagai API sementara untuk project dengan tema marketplace.
@@ -18,7 +18,7 @@ API ini juga menyediakan berbagai fitur seperti :
 </p></center>
 
 link API :
-``` https://ex-store-api.vercel.app ```
+``` https://exstoreapi.vercel.app ```
 <br>
 <h2>Contoh Hasil Request</h2>
 
