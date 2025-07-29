@@ -4,14 +4,14 @@
 <center><p>Contoh API ini dibuat untuk media pembelajaran ataupun dapat digunakan sebagai API sementara untuk project dengan tema marketplace.
 
 API ini juga menyediakan berbagai fitur seperti :
-<b><br>-> productID
-<br>-> productName
+<b><br>-> id
+<br>-> name
 <br>-> description
 <br>-> price
 <br>-> category
 <br>-> imageUrl
-<br>-> stockQuantity
-<br>-> customerRating
+<br>-> stock
+<br>-> rating
 <br>-> brand
 <br>-> lebih dari 200 barang</b>
 
@@ -25,25 +25,25 @@ link API :
 ```json
 [
   {
-    "productId": "item_001",
-    "productName": "Advanced Smartphone X",
+    "id": "001",
+    "name": "Advanced Smartphone X",
     "description": "Latest smartphone with 108MP camera and long-lasting battery.",
     "price": 799.99,
     "category": "Electronics",
     "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/001.webp",
-    "stockQuantity": 150,
-    "customerRating": 4.8,
+    "stock": 150,
+    "rating": 4.8,
     "brand": "TechPro"
   },
   {
-    "productId": "item_002",
-    "productName": "UltraBook Laptop Z",
+    "id": "002",
+    "name": "UltraBook Laptop Z",
     "description": "Thin and lightweight laptop, ideal for productivity and entertainment.",
     "price": 1200.5,
     "category": "Electronics",
     "imageUrl": "https://raw.githubusercontent.com/FungkiAndika/ex-store-api/refs/heads/main/image/002.webp",
-    "stockQuantity": 80,
-    "customerRating": 4.7,
+    "stock": 80,
+    "rating": 4.7,
     "brand": "CompMaster"
   },
 ....
